@@ -1,1 +1,1 @@
-This is practice test for git basics =)
+This is practice test for JavaScript =)
